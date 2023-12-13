@@ -1,5 +1,6 @@
 # IB-OP
-GAS and  BA algorithms implementations for comparation of results on the information bottleneck problem.
+GAS and  BA algorithms implementations for comparation of results on the information bottleneck problem paper: "Information Bottleneck Revisited: Posterior Probability Perspective with Optimal Transport"
+.
 
 # Enviroment setup
 ```sh
